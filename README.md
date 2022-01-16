@@ -4,7 +4,7 @@ NCG(Nodejs-Code-Generator) is a bash script file to generate a minimal nodejs co
 
 ## Installation
 
-Its quite just download the file and open your terminal first command is to make it executable and the next one is to run it. :-)
+Its quite easy just download the file and open your terminal first command is to make it executable and the next one is to run it. :-)
 
 
 ```bash
